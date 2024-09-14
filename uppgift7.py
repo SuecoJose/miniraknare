@@ -1,4 +1,4 @@
-# Uppgift "7" Minräknare : Thomas Lindholm
+# Uppgift 7 Minräknare : Thomas Lindholm
 
 loop_again = True
 
